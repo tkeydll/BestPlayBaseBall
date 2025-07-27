@@ -15,24 +15,24 @@
 
 ; ‘IŽè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá ŽÀ ƒX D ’· M ‘Î ‘ÅŒ‚
  1 HL@—Dl           R  S  - - - - - -  C  E  B  E  C  S  E  +1 +0  220
- 2 rŠª@—I            L  S  - - - - - -  C  E  B  E  C  C  E  +0 -1  300
+ 2 rŠª@—I            B  S  - - - - - -  C  E  B  E  C  C  E  +0 +0  300
  3 òŒû@—F‘¿           R  S  - - - - - -  C  D  C  C  C  A  D  +0 +0  280
  4 ˆäã@‰·‘å           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
  5 ‰Y“c@r•ã           R  S  - - - - - -  C  E  E  E  C  S  E  +0 +0  220
- 6 ‘åé@‘ìŽO           R  S  A - - - - -  C  E  E  E  C  E  D  +0 +0  220
+ 6 ‘åé@‘ìŽO           L  S  A - - - - -  C  E  E  E  C  E  D  +0 -1  220
  7 ‰ª“c@—IŠó           R  S  - - - - - -  C  E  D  E  C  E  E  +0 +0  220
  8 –å˜e@½            R  S  - - - - - -  C  D  D  D  C  B  E  +0 +0  230
  9 ƒLƒƒƒxƒbƒW           R  S  - - - - - -  C  D  D  D  C  D  C  +0 +0  240
 10 ƒOƒŠƒtƒBƒ“           L  S  - - - - - -  C  E  E  E  C  D  E  +0 -1  220
 11 ²X–Ø@r•ã          R  S  - - - - - -  C  E  D  E  C  B  E  +0 +0  230
-12 dM@T”V‰î          R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  330
+12 dM@T”V‰î          L  S  - - - - - -  C  E  E  E  C  E  E  +0 -1  330
 13 ‚—œ@—Y•½           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 14 “c’†@‰l“l           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 15 ’†ì@á©‘¾           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
-16 ’†ŽR@—ç“s           R  S  - - - - - -  C  E  E  D  C  A  E  +0 +0  240
+16 ’†ŽR@—ç“s           B  S  - - - - - -  C  E  E  D  C  A  E  +0 +0  240
 17 ƒoƒ‹ƒhƒi[ƒh          R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
-18 ‘D”—@‘å‰ë           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
-19 ƒ}ƒ‹ƒeƒBƒlƒX          B  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+18 ‘D”—@‘å‰ë           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+19 ƒ}ƒ‹ƒeƒBƒlƒX          R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 20 ŠÛ@‰À_            R  S  - - - - - -  C  D  B  E  C  B  E  +0 +0  270
 21 ŽO’Ë@—®¶           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
 22 ŽRí•@ˆÉD           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
@@ -63,16 +63,16 @@ P F               R  C   138  D  C  C  C  C  E  24  200
   ƒnƒ“ƒVƒ“ƒ^ƒCƒK[       +1 +0 +0 +0 +1 +0 +1 +0 +0 
 
 ; ‘IŽè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá ŽÀ ƒX D ’· M ‘Î ‘ÅŒ‚
- 1 ˆÉ“¡@«Ži           L  S  - - - - - -  C  E  E  E  C  D  E  +0 -1  220
+ 1 ˆÉ“¡@«Ži           R  S  - - - - - -  C  E  E  E  C  D  E  +0 +0  220
  2 Ž…Œ´@Œ’“l           L  S  - - - - - -  C  E  C  E  C  C  E  +0 -1  220
- 3 ˆÉŒ´@—Ël           L  S  - - - - - -  C  E  E  E  C  D  E  +0 -1  220
+ 3 ˆÉŒ´@—Ël           R  S  - - - - - -  C  E  E  E  C  D  E  +0 +0  220
  4 Šâè@—D            R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
- 5 Šâ’å@—S‘¾           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+ 5 Šâ’å@—S‘¾           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
  6 A“c@ŠC            R  S  - - - - - -  C  D  E  E  C  E  E  +0 +0  250
- 7 Ž½Œ´@‘åî           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
- 8 ‘å’|@k‘¾˜Y          L  S  - - - - - -  C  E  E  E  C  E  E  +0 -1  220
- 9 ¬”¦@—³•½           L  S  - - - - - -  C  D  E  D  C  C  D  +0 -1  250
-10 ‹yì@‰ë‹M           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+ 7 Ž½Œ´@‘åî           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+ 8 ‘å’|@k‘¾˜Y          R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
+ 9 ¬”¦@—³•½           R  S  - - - - - -  C  D  E  D  C  C  D  +0 +0  250
+10 ‹yì@‰ë‹M           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
 11 –Ø˜Q@¹–ç           L  S  - - - - - -  C  E  D  D  C  C  E  +0 -1  220
 12 ‹Ë•~@‘ñ”n           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 13 “í–{@‘×Žj           R  S  - - - - - -  C  E  C  E  C  E  E  +0 +0  220
@@ -80,14 +80,14 @@ P F               R  C   138  D  C  C  C  C  E  24  200
 15 ƒQƒ‰              R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 16 ²“¡@‹P–¾           R  P  - - - - - -  C  C  C  C  C  D  S  +0 +0  290
 17 “‡“c@ŠC—™           R  S  - - - - - -  C  E  E  E  C  S  E  +0 +0  220
-18 “‡–{@_–ç           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
-19 îàŽ›@–]–²           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+18 “‡–{@_–ç           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+19 îàŽ›@–]–²           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
 20 îà‹´@—yl           R  S  - - - - - -  C  E  E  E  C  S  E  +0 +0  220
-21 ‹ß–{@ŒõŽi           R  S  - - - - - -  C  A  C  C  C  A  D  +1 +0  290
-22 ƒfƒ…ƒvƒ‰ƒ“ƒeƒBƒG        L  S  - - - - - -  C  E  E  E  C  E  E  +0 -1  220
+21 ‹ß–{@ŒõŽi           L  S  - - - - - -  C  A  C  C  C  A  D  +1 -1  290
+22 ƒfƒ…ƒvƒ‰ƒ“ƒeƒBƒG        R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
 23 •x“c@˜@            L  S  - - - - - -  C  E  E  E  C  E  E  +0 -1  220
 24 ’†–ì@‘ñ–²           R  S  - - - - - -  C  B  C  C  C  A  E  +0 +0  290
-25 ‘Oì@‰E‹ž           R  S  - - - - - -  C  E  E  D  C  A  E  +0 +0  230
+25 ‘Oì@‰E‹ž           L  S  - - - - - -  C  E  E  D  C  A  E  +0 -1  230
 
 ; “ŠŽè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
 P ˆÉ“¡@«Ži           R  C   138  D  S  S  C  C  E  24  200
@@ -121,7 +121,7 @@ P F               R  C   138  D  C  C  C  C  E  24  200
  4 Šâ“c@«‹M           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
  5 ƒEƒBƒbƒN            R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
  6 ŠŒ´@VŠó           R  S  - - - - - -  C  D  E  E  C  E  E  +0 +0  220
- 7 Ÿ–”@‰·Žj           L  S  - - - - - -  C  E  E  E  C  A  E  +0 -1  330
+ 7 Ÿ–”@‰·Žj           R  S  - - - - - -  C  E  E  E  C  A  E  +0 +0  330
  8 _—¢@˜a‹B           R  S  - - - - - -  C  E  A  E  C  E  E  +0 +0  220
  9 ‹ž“c@—z‘¾           R  S  - - - - - -  C  E  E  E  C  D  E  +0 +0  230
 10 ƒPƒC              R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
@@ -131,15 +131,15 @@ P F               R  C   138  D  C  C  C  C  E  24  200
 14 ŽÄ“c@—³‘ñ           R  S  - - - - - -  C  E  A  E  C  C  E  +0 +0  220
 15 ŠÖª@‘å‹C           R  S  - - - - - -  C  E  E  E  C  A  E  +0 +0  220
 16 “›@‰Ã’q           R  S  - - - - - -  C  E  C  E  C  E  D  +0 +0  220
-17 ŒË’Œ@‹±F           L  S  - - - - - -  C  E  E  E  C  A  E  +0 -1  250
-18 —Ñ@‘ô^            L  S  - - - - - -  C  C  C  E  C  B  E  +0 -1  220
+17 ŒË’Œ@‹±F           R  S  - - - - - -  C  E  E  E  C  A  E  +0 +0  250
+18 —Ñ@‘ô^            R  S  - - - - - -  C  C  C  E  C  B  E  +0 +0  220
 19 éD               R  S  - - - - - -  C  E  E  E  C  S  E  +0 +0  350
-20 ƒtƒH[ƒh            R  S  - - - - - -  C  E  E  E  C  B  E  +0 +0  270
+20 ƒtƒH[ƒh            L  S  - - - - - -  C  E  E  E  C  B  E  +0 -1  270
 21 ŽOX@‘å‹M           R  S  A - - - - -  C  B  C  D  C  B  E  +0 +0  220
-22 X@Œh“l            L  S  A - - - - -  C  E  E  E  C  C  E  +0 -1  220
+22 X@Œh“l            R  S  A - - - - -  C  E  E  E  C  C  E  +0 +0  220
 23 XŒ´@N•½           R  S  A - - - - -  C  E  D  E  C  D  E  +0 +0  220
 24 “x‰ï@—²‹P           R  S  - - - - - -  C  E  C  D  C  A  D  +0 +0  220
-25 ŒöŽ®í(ƒZEƒŠ[        L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+25 ŒöŽ®í(ƒZEƒŠ[        B  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 
 ; “ŠŽè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
 P “Œ@ŽŽ÷            R  C   146  C  S  S  C  C  C  24  200
@@ -164,27 +164,27 @@ P F               R  C   138  D  C  C  C  C  E  24  200
  2 ‘å·@•ä            R  S  - - - - - -  C  C  E  D  C  C  E  +0 +0  290
  3 ‰ª–{@x            L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
  4 ¬‰€@ŠC“l           R  S  - - - - - -  C  C  D  C  C  S  E  +0 +0  290
- 5 Ä“¡@—D‘¿           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
- 6 â‘q@«Œá           L  S  - - - - - -  C  E  C  D  C  B  D  +0 -1  270
+ 5 Ä“¡@—D‘¿           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+ 6 â‘q@«Œá           R  S  - - - - - -  C  E  C  D  C  B  D  +0 +0  270
  7 ²“¡@–ö”V‰î          R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  250
- 8 —é–Ø@Œ’–î           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+ 8 —é–Ø@Œ’–î           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
  9 ‚‹´@V–ç           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
-10 ‘ê“c@ˆêŠó           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+10 ‘ê“c@ˆêŠó           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
 11 “c’†@L•ã           R  S  - - - - - -  C  E  A  E  C  A  E  +0 +0  220
 12 ‹Ê‘º@¸Œå           R  S  - - - - - -  C  E  D  E  C  E  E  +0 +0  220
 13 “c‘º@r‰î           R  S  - - - - - -  C  E  C  E  C  C  E  +0 +0  250
 14 °“c@Š°Ž÷           R  S  - - - - - -  C  E  E  E  C  D  E  +0 +0  220
-15 –ìŠÔ@sË           R  S  - - - - - -  C  E  D  D  C  B  E  +0 +0  250
+15 –ìŠÔ@sË           L  S  - - - - - -  C  E  D  D  C  B  E  +0 -1  250
 16 ƒn[ƒ“             R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 17 ’·’J•”@‹âŽŸ          L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
-18 ‰HŒŽ@—²‘¾˜Y          R  S  - - - - - -  C  B  A  E  C  D  E  +0 +0  320
+18 ‰HŒŽ@—²‘¾˜Y          L  S  - - - - - -  C  B  A  E  C  D  E  +0 -1  320
 19 —Ñ@W‘¿            R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  250
-20 šÍ]@“ÖÆ           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+20 šÍ]@“ÖÆ           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 21 X@ãÄ•½            R  S  A - - - - -  C  E  E  E  C  E  E  +0 +0  220
-22 X‰Y@‘å•ã           L  S  A - - - - -  C  E  D  E  C  D  E  +0 -1  220
-23 –î–ì@‰ëÆ           L  S  - - - - - -  C  E  C  C  C  C  E  +0 -1  220
+22 X‰Y@‘å•ã           B  S  A - - - - -  C  E  D  E  C  D  E  +0 +0  220
+23 –î–ì@‰ëÆ           B  S  - - - - - -  C  E  C  C  C  C  E  +0 +0  220
 24 ŒöŽ®í(ƒZEƒŠ[        R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
-25 F               R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+25 F               L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
 
 ; “ŠŽè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
 P ²“¡@–ö”V‰î          R  C   142  D  C  A  C  C  E  24  200
@@ -216,18 +216,18 @@ P F               R  C   138  D  C  C  C  C  E  24  200
  3 ‘¾“c@Œ«Œá           R  S  - - - - - -  C  E  C  E  C  E  E  +0 +0  270
  4 ‹à‹v•Û@—D“l          R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
  5 ¬àV@—åŽj           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
- 6 ãŒû@á©—º           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+ 6 ãŒû@á©—º           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
  7 àVˆä@—õ            R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
  8 ´…@¸            R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
  9 ‘‘Ži@G‘¾           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 10 ‚‹´@šõ“ñ           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
-11 “cŒû@—í“l           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
-12 •‰ª@—´¢           L  S  - - - - - -  C  E  D  E  C  B  E  +0 -1  220
-13 “c’†@—zãÄ           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
+11 “cŒû@—í“l           B  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+12 •‰ª@—´¢           R  S  - - - - - -  C  E  D  E  C  B  E  +0 +0  220
+13 “c’†@—zãÄ           L  S  - - - - - -  C  E  E  E  C  E  E  +0 -1  220
 14 ’·‰ª@GŽ÷           R  S  - - - - - -  C  E  E  E  C  S  E  +0 +0  220
-15 ’†‘º@—D“l           L  S  - - - - - -  C  E  A  E  C  E  E  +0 -1  250
+15 ’†‘º@—D“l           R  S  - - - - - -  C  E  A  E  C  E  E  +0 +0  250
 16 ¼ì@—y‹P           R  S  - - - - - -  C  E  C  E  C  C  E  +0 +0  220
-17 ‹´–{@¯Æ           L  S  - - - - - -  C  E  C  E  C  E  E  +0 -1  220
+17 ‹´–{@¯Æ           R  S  - - - - - -  C  E  C  E  C  E  E  +0 +0  220
 18 ’·’Jì@’ˆ‹P          R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 19 ŠÛŽR@˜aˆè           R  S  - - - - - -  C  E  D  E  C  E  E  +0 +0  220
 20 ŠÛŽR@ãÄ‘å           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
@@ -260,30 +260,30 @@ P F               R  C   138  D  C  C  C  C  E  24  200
 
 ; ‘IŽè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá ŽÀ ƒX D ’· M ‘Î ‘ÅŒ‚
  1 ”ÂŽR@—S‘¾˜Y          R  S  - - - - - -  C  E  E  D  C  D  E  +0 +0  220
- 2 ˆÉ“¡@ä‰›           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+ 2 ˆÉ“¡@ä‰›           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
  3 ã—Ñ@½’m           L  S  - - - - - -  C  A  E  C  C  B  B  +0 -1  260
- 4 ‰F²Œ©@^Œá          L  S  - - - - - -  C  E  A  E  C  E  E  +0 -1  220
- 5 ‘å“‡@—m•½           R  S  - - - - - -  C  D  E  E  C  A  E  +0 +0  230
+ 4 ‰F²Œ©@^Œá          R  S  - - - - - -  C  E  A  E  C  E  E  +0 +0  220
+ 5 ‘å“‡@—m•½           B  S  - - - - - -  C  D  E  E  C  A  E  +0 +0  230
  6 ‘å–ì@—Y‘å           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
- 7 ‰ª“c@rÆ           L  S  - - - - - -  C  E  E  E  C  E  E  +0 -1  220
+ 7 ‰ª“c@rÆ           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
  8 ‰ª—Ñ@—EŠó           L  S  - - - - - -  C  B  C  C  C  S  E  +0 -1  290
- 9 ”ö“c@„Ž÷           L  S  - - - - - -  C  D  E  E  C  E  E  +0 -1  220
-10 ‹àŠÛ@–²“l           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
+ 9 ”ö“c@„Ž÷           R  S  - - - - - -  C  D  E  E  C  E  E  +0 +0  220
+10 ‹àŠÛ@–²“l           L  S  - - - - - -  C  E  E  E  C  E  E  +0 -1  220
 11 ì‰z@½Ži           L  S  - - - - - -  C  E  C  E  C  D  E  +0 -1  220
 12 ‹ß“¡@—õ            L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
-13 âV“¡@j‹L           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
-14 x‘¾              L  S  - - - - - -  C  E  E  E  C  C  E  +0 -1  220
-15 ‘c•ƒ]@‘å•ã          R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
-16 ‚‹´@Žü•½           L  S  - - - - - -  C  E  D  E  C  C  E  +0 -1  230
+13 âV“¡@j‹L           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+14 x‘¾              R  S  - - - - - -  C  E  E  E  C  C  E  +0 +0  220
+15 ‘c•ƒ]@‘å•ã          L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+16 ‚‹´@Žü•½           B  S  - - - - - -  C  E  D  E  C  C  E  +0 +0  230
 17 “y“c@—´‹ó           R  S  - - - - - -  C  E  D  E  C  C  E  +0 +0  220
 18 ª”ö@V            R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
-19 ‹´–{@˜ÐŽ÷           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+19 ‹´–{@˜ÐŽ÷           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
 20 à_@«”T‰î           R  S  - - - - - -  C  E  E  E  C  S  E  +0 +0  350
 21 ”óŒû@³C           R  S  - - - - - -  C  D  D  E  C  E  E  +0 +0  220
 22 •Ÿ@Œh“o            R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
-23 ƒ{ƒXƒ‰[            L  S  - - - - - -  C  E  D  D  C  C  C  +0 -1  240
+23 ƒ{ƒXƒ‰[            R  S  - - - - - -  C  E  D  D  C  C  C  +0 +0  240
 24 ¼—t@‹M‘å           R  S  - - - - - -  C  E  D  E  C  C  E  +0 +0  220
-25 ‘º¼@ŠJl           R  S  - - - - - -  C  E  D  D  C  C  E  +0 +0  220
+25 ‘º¼@ŠJl           L  S  - - - - - -  C  E  D  D  C  C  E  +0 -1  220
 
 ; “ŠŽè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
 P ‘å–ì@—Y‘å           R  C   138  E  A  A  C  C  D  24  200
@@ -311,29 +311,29 @@ P F               R  C   138  D  C  C  C  C  E  24  200
 
 ; ‘IŽè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá ŽÀ ƒX D ’· M ‘Î ‘ÅŒ‚
  1 HL@—Dl           R  S  - - - - - -  C  E  C  E  C  D  E  +1 +0  220
- 2 ƒCƒqƒl@ƒCƒcƒA         R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
- 3 ‘å]@—³¹           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+ 2 ƒCƒqƒl@ƒCƒcƒA         L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+ 3 ‘å]@—³¹           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
  4 ‘åŠÖ@—F‹v           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
- 5 ‘å’Ã@—º‰î           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+ 5 ‘å’Ã@—º‰î           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
  6 ‘å–ì@‰Ò“ª‰›          R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
- 7 ”öŒ`@’“l           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
- 8 •û@—v           R  S  - - - - - -  C  C  E  D  C  A  E  +0 +0  220
+ 7 ”öŒ`@’“l           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+ 8 •û@—v           L  S  - - - - - -  C  C  E  D  C  A  E  +0 -1  220
  9 ì£@W            R  S  - - - - - -  C  E  C  D  C  A  E  +0 +0  280
 10 ì‘º@—F“l           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 11 –Ø‘º@Œõ            R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 12 ŒIŒ´@—Ë–î           R  S  - - - - - -  C  E  B  D  C  B  D  +0 +0  220
-13 ‹ß“¡@Œ’‰î           R  S  - - - - - -  C  E  C  E  C  B  D  +0 +0  300
+13 ‹ß“¡@Œ’‰î           B  S  - - - - - -  C  E  C  E  C  B  D  +0 +0  300
 14 ùì@‹gN           L  S  - - - - - -  C  E  E  E  C  C  E  +0 -1  220
-15 Žü“Œ@—C‹ž           R  S  - - - - - -  C  S  C  D  C  B  D  +0 +0  310
+15 Žü“Œ@—C‹ž           L  S  - - - - - -  C  S  C  D  C  B  D  +0 -1  310
 16 ¯Žq@—Y‘å           R  S  - - - - - -  C  E  E  E  C  D  E  +0 +0  220
 17 ’JìŒ´@Œ’‘¾          R  S  - - - - - -  C  E  A  E  C  D  E  +0 +0  220
 18 ’†‘º@W            R  S  - - - - - -  C  E  C  D  C  S  E  +0 +0  240
 19 “¡ˆä@á©Æ           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
-20 ƒwƒ‹ƒiƒ“ƒfƒX          R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+20 ƒwƒ‹ƒiƒ“ƒfƒX          L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
 21 ‘O“c@ƒ            R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  350
 22 ‘O“c@—IŒÞ           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
-23 –qŒ´@‘å¬           L  S  - - - - - -  C  C  E  D  C  A  E  +0 -1  280
-24 ¼–{@°            L  S  - - - - - -  C  E  E  E  C  E  E  +0 -1  220
+23 –qŒ´@‘å¬           R  S  - - - - - -  C  C  E  D  C  A  E  +0 +0  280
+24 ¼–{@°            R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
 25 ¼–{@—TŽ÷           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 
 ; “ŠŽè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
@@ -361,27 +361,27 @@ P F               R  C   138  D  C  C  C  C  E  24  200
 ; ‘IŽè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá ŽÀ ƒX D ’· M ‘Î ‘ÅŒ‚
  1 ŸÇŠÔ@‘åŠî           R  S  - - - - - -  C  E  B  E  C  B  E  +0 +0  220
  2 Îˆä@ˆê¬           R  S  - - - - - -  C  E  E  D  C  C  E  +0 +0  270
- 3 ŒÜ\”¦@—º‘¿          R  S  - - - - - -  C  B  D  D  C  C  E  +0 +0  240
+ 3 ŒÜ\”¦@—º‘¿          L  S  - - - - - -  C  B  D  D  C  C  E  +0 -1  240
  4 ˆÉ“¡@‘åŠC           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
  5 ãŒ´@Œ’‘¾           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
  6 ‰Á“¡@‹M”V           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
- 7 ãì”¨@‘åŒå          R  S  - - - - - -  C  E  C  E  C  A  E  +0 +0  220
- 8 ‰Í–ì@—³¶           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+ 7 ãì”¨@‘åŒå          B  S  - - - - - -  C  E  C  E  C  A  E  +0 +0  220
+ 8 ‰Í–ì@—³¶           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
  9 ´‹{@K‘¾˜Y          R  S  - - - - - -  C  D  D  C  C  A  C  +0 +0  270
 10 âV“¡@—F‹MÆ          R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 11 ŽÄ“c@Ž‚Žq           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
-12 ‘·@ˆÕáû            R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+12 ‘·@ˆÕáû            L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
 13 “c‹{@—T—Á           L  S  - - - - - -  C  E  D  E  C  B  D  +0 -1  240
 14 ’†“‡@‘ì–ç           R  S  - - - - - -  C  E  A  E  C  B  E  +0 +0  350
 15 ×ì@—½•½           L  S  - - - - - -  C  D  D  E  C  B  E  +0 -1  220
-16 ×–ì@°Šó           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
-17 –x@‹P            R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+16 ×–ì@°Šó           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+17 –x@‹P            B  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 18 …–ì@’B‹H           R  S  - - - - - -  C  E  D  D  C  B  D  +0 +0  260
 19 ‹{¼@®¶           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
-20 –îàV@G‘¾           L  S  - - - - - -  C  C  D  D  C  C  E  +0 -1  260
+20 –îàV@G‘¾           R  S  - - - - - -  C  C  D  D  C  C  E  +0 +0  260
 21 ŽRí•@•Ÿ–ç           B  S  - - - - - -  C  E  E  E  C  A  E  +0 +0  220
 22 Žá—Ñ@WO           R  S  - - - - - -  C  E  E  E  C  A  E  +0 +0  220
-23 ŒöŽ®í(ƒpEƒŠ[        L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+23 ŒöŽ®í(ƒpEƒŠ[        R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 24 F               R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 
 ; “ŠŽè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
@@ -406,31 +406,31 @@ P F               R  C   138  D  C  C  C  C  E  24  200
   ƒƒbƒeƒ}ƒŠ[ƒ“ƒY       +0 +0 +0 +1 +0 +1 +1 +0 +0 
 
 ; ‘IŽè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá ŽÀ ƒX D ’· M ‘Î ‘ÅŒ‚
- 1 ˆêžŠ@—Í^           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+ 1 ˆêžŠ@—Í^           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
  2 ã“c@Šó—RãÄ          L  S  - - - - - -  C  E  C  E  C  B  E  +0 -1  220
  3 ¬ì@—´¬           R  S  - - - - - -  C  C  C  E  C  B  E  +0 +0  240
  4 ¬“‡@˜aÆ           R  S  - - - - - -  C  E  E  E  C  S  E  +0 +0  220
- 5 Šp’†@Ÿ–ç           R  S  - - - - - -  C  E  A  E  C  B  E  +0 +0  220
+ 5 Šp’†@Ÿ–ç           L  S  - - - - - -  C  E  A  E  C  B  E  +0 -1  220
  6 ‹e’n@—™‹è           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
  7 –Ø‘º@—Dl           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
- 8 ƒTƒ‚ƒ“ƒY            R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+ 8 ƒTƒ‚ƒ“ƒY            L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
  9 â–{@ŒõŽm˜Y          R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 10 ²“¡@“sŽu–ç          R  S  - - - - - -  C  E  E  E  C  B  E  +0 +0  220
 11 àV“c@Œ\—C           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
-12 —é–Ø@º‘¿           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+12 —é–Ø@º‘¿           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
 13 ‚–ì@ãù‘¿           R  S  - - - - - -  C  E  E  E  C  S  E  +0 +0  220
 14 îà•”@‰l“l           R  S  - - - - - -  C  C  E  D  C  A  E  +0 +0  240
 15 —§¼@—R‰F           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
 16 “c’†@°–ç           R  S  - - - - - -  C  E  E  E  C  B  E  +0 +0  220
 17 Ž›’n@—²¬           R  S  - - - - - -  C  E  E  D  C  B  D  +0 +0  270
-18 ’†‘º@–«–í           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+18 ’†‘º@–«–í           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 19 ’†X@r‰î           R  S  A - - - - -  C  E  D  E  C  D  E  +0 +0  220
-20 œA’r@NŽu˜Y          L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
-21 “¡‰ª@—T‘å           R  S  - - - - - -  C  E  C  D  C  B  E  +0 +0  250
-22 “¡Œ´@‹±‘å           L  S  - - - - - -  C  C  D  D  C  B  D  +0 -1  270
+20 œA’r@NŽu˜Y          R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+21 “¡‰ª@—T‘å           L  S  - - - - - -  C  E  C  D  C  B  E  +0 -1  250
+22 “¡Œ´@‹±‘å           R  S  - - - - - -  C  C  D  D  C  B  D  +0 +0  270
 23 ƒ|ƒ‰ƒ“ƒR            R  S  - - - - - -  C  E  C  E  C  C  D  +0 +0  220
 24 ‹{è@—³¬           R  S  - - - - - -  C  E  E  E  C  D  E  +0 +0  220
-25 ˆÀ“c@®Œ›           B  S  - - - - - -  C  E  C  D  C  B  E  +0 +0  260
+25 ˆÀ“c@®Œ›           R  S  - - - - - -  C  E  C  D  C  B  E  +0 +0  260
 
 ; “ŠŽè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
 P ¬“‡@˜aÆ           R  C   134  D  B  B  C  C  D  24  200
@@ -453,28 +453,28 @@ P F               R  C   138  D  C  C  C  C  E  24  200
   ƒ‰ƒNƒeƒ“ƒC[ƒOƒ‹       +0 +0 +1 +0 +0 +0 +0 +0 +1 
 
 ; ‘IŽè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá ŽÀ ƒX D ’· M ‘Î ‘ÅŒ‚
- 1 “à@¯—´            L  S  - - - - - -  C  E  E  E  C  E  E  +0 -1  220
+ 1 “à@¯—´            R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
  2 ¬‹½@—TÆ           R  S  - - - - - -  C  C  D  D  C  D  E  +0 +0  220
- 3 h“‡@q            R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+ 3 h“‡@q            L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
  4 •ì@Žj—z           R  S  - - - - - -  C  E  D  E  C  B  E  +0 +0  310
  5 ŒÃŽÓ@Ž÷            R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
- 6 ¬[“c@‘åãÄ          B  S  - - - - - -  C  S  C  C  C  B  E  +0 +0  230
+ 6 ¬[“c@‘åãÄ          R  S  - - - - - -  C  S  C  C  C  B  E  +0 +0  230
  7 “‡“à@G–¾           R  S  - - - - - -  C  E  C  E  C  D  E  +0 +0  220
  8 —é–Ø@ãÄ“V           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
  9 —é–Ø@‘å’n           R  S  - - - - - -  C  E  E  D  C  A  E  +0 +0  250
 10 ƒ^[ƒŠ[            R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
-11 ’CŒÈ@—Á‰î           L  S  - - - - - -  C  B  D  D  C  C  D  +0 -1  250
+11 ’CŒÈ@—Á‰î           R  S  - - - - - -  C  B  D  D  C  C  D  +0 +0  250
 12 “c’†@˜aŠî           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
 13 “c’†@‹M–ç           R  S  - - - - - -  C  E  A  E  C  E  E  +0 +0  220
 14 ’†“‡@‘å•ã           R  S  - - - - - -  C  B  E  D  C  A  E  +0 +0  270
 15 ¼Š_@‰ë–î           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 16 ‘¥–{@V‘å           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
-17 ‘ì@—²‹v           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
+17 ‘ì@—²‹v           L  S  - - - - - -  C  E  E  E  C  E  E  +0 -1  220
 18 “¡ˆä@¹            R  S  - - - - - -  C  E  E  E  C  C  E  +0 +0  220
 19 –x“à@ŒªŒÞ           R  S  - - - - - -  C  E  D  E  C  C  E  +0 +0  310
 20 •“¡@“Ö‹M           R  S  - - - - - -  C  E  A  E  C  C  E  +0 +0  220
-21 @ŽR@—Û            R  S  - - - - - -  C  D  E  D  C  B  D  +0 +0  250
-22 ƒ„ƒt[ƒŒ            L  S  - - - - - -  C  E  E  E  C  E  E  +0 -1  220
+21 @ŽR@—Û            B  S  - - - - - -  C  D  E  D  C  B  D  +0 +0  250
+22 ƒ„ƒt[ƒŒ            R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
 23 “nç²@‰À–¾           R  S  - - - - - -  C  E  D  D  C  S  E  +0 +0  300
 24 ŒöŽ®í(ƒpEƒŠ[        R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 25 F               R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
@@ -502,29 +502,29 @@ P F               R  C   138  D  C  C  C  C  E  24  200
 ; ‘IŽè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá ŽÀ ƒX D ’· M ‘Î ‘ÅŒ‚
  1 ˆ¢•”@ãÄ‘¾           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
  2 ‘å—¢@V¶           R  S  - - - - - -  C  E  A  E  C  S  E  +0 +0  290
- 3 •ÐŽR@Šy¶           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+ 3 •ÐŽR@Šy¶           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
  4 —ˆ“c@—Á“l           R  S  - - - - - -  C  D  D  E  C  D  E  +0 +0  260
- 5 ™àV@—´            R  S  - - - - - -  C  E  E  E  C  C  E  +0 +0  220
+ 5 ™àV@—´            L  S  - - - - - -  C  E  E  E  C  C  E  +0 -1  220
  6 ‘]’J@—´•½           R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
  7 “c“ˆ@‘åŽ÷           L  S  - - - - - -  C  E  E  E  C  E  E  +0 -1  220
  8 ’ƒ–ì@“Ä­           R  S  - - - - - -  C  E  E  E  C  S  E  +0 +0  220
  9 “Œ¼@‰õª           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
-10 •xŽR@—½‰ë           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
-11 ¼ì@—´”n           L  S  - - - - - -  C  D  E  D  C  A  D  +0 -1  310
-12 ¼–ì@^O           R  S  - - - - - -  C  E  D  E  C  S  D  +0 +0  250
+10 •xŽR@—½‰ë           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+11 ¼ì@—´”n           R  S  - - - - - -  C  D  E  D  C  A  D  +0 +0  310
+12 ¼–ì@^O           L  S  - - - - - -  C  E  D  E  C  S  D  +0 -1  250
 13 –ìŒû@’qÆ           R  S  - - - - - -  C  E  C  E  C  C  E  +0 +0  220
 14 •Ÿ“c@Žü•½           R  S  - - - - - -  C  E  D  E  C  A  E  +0 +0  220
-15 ‹{é@‘å–í           R  S  - - - - - -  C  E  A  E  C  S  E  +0 +0  220
+15 ‹{é@‘å–í           L  S  - - - - - -  C  E  A  E  C  S  E  +0 -1  220
 16 ”ž’J@—S‰î           R  S  - - - - - -  C  C  D  E  C  C  E  +0 +0  260
 17 @@—C–            R  S  - - - - - -  C  E  D  D  C  A  D  +0 +0  240
-18 X@—FÆ            L  S  A - - - - -  C  E  B  E  C  B  E  +0 -1  240
+18 X@—FÆ            R  S  A - - - - -  C  E  B  E  C  B  E  +0 +0  240
 19 ŽR‰ª@‘×•ã           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
 20 ŽR“c@C‹`           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 21 ŽR’†@—Å^           R  S  - - - - - -  C  E  D  E  C  B  E  +0 +0  220
 22 ‰¡ŽR@¹Æ           L  S  - - - - - -  C  E  E  E  C  E  E  +0 -1  220
-23 “n•”@—Él           B  S  - - - - - -  C  E  A  E  C  E  E  +0 +0  220
-24 ŒöŽ®í(ƒpEƒŠ[        R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
-25 F               B  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+23 “n•”@—Él           R  S  - - - - - -  C  E  A  E  C  E  E  +0 +0  220
+24 ŒöŽ®í(ƒpEƒŠ[        L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+25 F               R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 
 ; “ŠŽè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
 P ‘]’J@—´•½           R  C   142  B  A  B  C  C  D  24  200
@@ -548,22 +548,22 @@ P F               R  C   138  D  C  C  C  C  E  24  200
 
 ; ‘IŽè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá ŽÀ ƒX D ’· M ‘Î ‘ÅŒ‚
  1 b”ã–ì@‰›           R  S  A - - - - -  C  E  D  E  C  D  E  +0 +0  220
- 2 ŒIŽR@I            R  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
+ 2 ŒIŽR@I            B  S  - - - - - -  C  E  E  E  C  E  E  +0 +0  220
  3 •–Ø@—D‘¾           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
- 4 Œ¹“c@‘s—º           L  S  - - - - - -  C  C  C  D  C  B  E  +0 -1  220
- 5 ²X–Ø@Œ’           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
- 6 ²“¡@”¹•ã           L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
+ 4 Œ¹“c@‘s—º           R  S  - - - - - -  C  C  C  D  C  B  E  +0 +0  220
+ 5 ²X–Ø@Œ’           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+ 6 ²“¡@”¹•ã           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
  7 ²“¡@‘¾—z           R  S  - - - - - -  C  E  A  E  C  C  E  +0 +0  220
  8 ›ˆä@M–ç           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
- 9 ‹÷“c@’mˆê˜Y          R  S  - - - - - -  C  E  E  E  C  S  E  +0 +0  220
-10 •½—Ç@ŠC”n           B  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
+ 9 ‹÷“c@’mˆê˜Y          L  S  - - - - - -  C  E  E  E  C  S  E  +0 -1  220
+10 •½—Ç@ŠC”n           R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 11 îà¼@“n            R  S  - - - - - -  C  D  E  E  C  B  E  +0 +0  220
 12 ‘êàV@‰Ä‰›           R  S  - - - - - -  C  C  D  D  C  B  E  +0 +0  240
 13 •“à@‰Äô           R  S  - - - - - -  C  E  A  E  C  E  E  +0 +0  220
 14 “c‘º@ˆÉ’m˜Y          L  S  - - - - - -  C  E  D  E  C  D  E  +0 -1  220
-15 ’‡“c@Œc‰î           R  S  - - - - - -  C  E  E  E  C  A  E  +0 +0  230
+15 ’‡“c@Œc‰î           L  S  - - - - - -  C  E  E  E  C  A  E  +0 -1  230
 16 ’‡ŽO‰Í@—D‘¾          R  S  - - - - - -  C  E  E  E  C  E  D  +0 +0  220
-17 ¼ì@ˆ¤–ç           B  S  - - - - - -  C  A  D  C  C  A  D  +0 +0  260
+17 ¼ì@ˆ¤–ç           L  S  - - - - - -  C  A  D  C  C  A  D  +0 -1  260
 18 ‰H“c@T”V‰î          R  S  - - - - - -  C  E  D  E  C  D  E  +0 +0  220
 19 •½‘ò@‘å‰Í           R  S  - - - - - -  C  E  E  E  C  C  E  +0 +0  220
 20 •½À@ãÄ‘¾           L  S  - - - - - -  C  D  E  E  C  B  E  +0 -1  220
