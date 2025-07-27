@@ -1,0 +1,584 @@
+;--------------------------------------------------------------------
+; 2025”NƒxƒXƒgƒvƒŒ[ƒvƒ–ì‹…‘Ièƒf[ƒ^
+; ©“®¶¬”Å
+
+;--------------------------------------------------------------------
+; ƒ`[ƒ€–¼                  —ªÌ         ‹L    BGM
+  ƒˆƒ~ƒEƒŠƒWƒƒƒCƒAƒ“ƒc           giants     g giants
+
+; UNIFORM                   SYMBOL       BGM
+  G_h G_v              giants     giants
+
+; “Á’¥             ‘Å ‘– ç ‹@ “ ‘« — ç K
+  •½‹Ï             0  0  0  0  0  0  0  0  0
+
+; ‘Iè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá À ƒX D ’· M ‘Î ‘ÅŒ‚
+ 1 HL@—Dl           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  245
+ 2 rŠª@—I            R  S  - - - - - -  C  E  E  C  C  A  E  +0 +0  279
+ 3 òŒû@—F‘¿           R  S  - - - - - -  C  E  C  C  C  B  E  +0 +0  272
+ 4 ˆäã@‰·‘å           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  234
+ 5 ‰Y“c@r•ã           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  235
+ 6 ‘åé@‘ìO           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  245
+ 7 ‰ª“c@—IŠó           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  245
+ 8 –å˜e@½            B  S  - - - - - -  C  D  E  C  C  E  E  +0 +0  262
+ 9 ƒLƒƒƒxƒbƒW           R  S  - - - - - -  C  E  D  C  C  E  D  +0 +0  264
+10 ƒOƒŠƒtƒBƒ“           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  250
+11 ²X–Ø@r•ã          R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  263
+12 dM@T”V‰î          R  S  - - - - - -  C  E  E  C  C  S  E  +0 +0  288
+13 ‚—œ@—Y•½           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+14 “c’†@‰l“l           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+15 ’†ì@á©‘¾           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+16 ’†R@—ç“s           R  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  264
+17 ƒoƒ‹ƒhƒi[ƒh          R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+18 ‘D”—@‘å‰ë           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+19 ƒ}ƒ‹ƒeƒBƒlƒX          L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+20 ŠÛ@‰À_            R  S  - - - - - -  C  E  D  C  C  C  E  +0 +0  270
+21 O’Ë@—®¶           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+22 Rí•@ˆÉD           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  239
+23 R“c@—´¹           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+24 ‰¡ì@ŠM            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+25 ‹gì@®‹P           R  S  - - - - - -  C  D  C  C  C  C  E  +0 +0  270
+
+; “Šè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
+P Îì@’B–ç           R  C   132  C  B  A  C  C  C  24  200
+P ˆäã@‰·‘å           R  C   144  A  A  B  C  C  C  24  200
+P ƒOƒŠƒtƒBƒ“           R  C   140  A  A  A  C  C  C  24  200
+P ‚—œ@—Y•½           R  C   132  S  E  B  C  C  C  24  200
+P ’†ì@á©‘¾           R  C   132  S  A  A  C  C  C  24  200
+P ƒoƒ‹ƒhƒi[ƒh          R  C   132  A  E  A  C  C  C  24  200
+P R“c@—´¹           R  C   132  E  B  C  C  C  C  24  200
+P ‰¡ì@ŠM            R  C   132  D  B  A  C  C  C  24  200
+P Œö®í(ƒZEƒŠ[        R  C   132  C  C  C  C  C  C  24  200
+P F               R  C   132  C  C  C  C  C  C  24  200
+
+;--------------------------------------------------------------------
+; ƒ`[ƒ€–¼                  —ªÌ         ‹L    BGM
+  ƒnƒ“ƒVƒ“ƒ^ƒCƒK[ƒX            tigers     t tigers
+
+; UNIFORM                   SYMBOL       BGM
+  T_h T_v              tigers     tigers
+
+; “Á’¥             ‘Å ‘– ç ‹@ “ ‘« — ç K
+  •½‹Ï             0  0  0  0  0  0  0  0  0
+
+; ‘Iè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá À ƒX D ’· M ‘Î ‘ÅŒ‚
+ 1 ˆÉ“¡@«i           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 2 …Œ´@Œ’“l           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  253
+ 3 ˆÉŒ´@—Ël           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  248
+ 4 Šâè@—D            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 5 Šâ’å@—S‘¾           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 6 A“c@ŠC            R  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  266
+ 7 ½Œ´@‘åî           B  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 8 ‘å’|@k‘¾˜Y          L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  228
+ 9 ¬”¦@—³•½           R  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  266
+10 ‹yì@‰ë‹M           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+11 –Ø˜Q@¹–ç           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  255
+12 ‹Ë•~@‘ñ”n           B  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+13 “í–{@‘×j           B  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+14 H“¡@‘×¬           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+15 ƒQƒ‰              R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+16 ²“¡@‹P–¾           R  P  - - - - - -  C  D  C  C  C  B  S  +0 +0  273
+17 “‡“c@ŠC—™           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  248
+18 “‡–{@_–ç           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+19 îà›@–]–²           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  256
+20 îà‹´@—yl           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+21 ‹ß–{@Œõi           L  S  - - - - - -  C  A  C  C  C  B  E  +0 +0  273
+22 ƒfƒ…ƒvƒ‰ƒ“ƒeƒBƒG        R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  225
+23 •x“c@˜@            L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+24 ’†–ì@‘ñ–²           B  S  - - - - - -  C  C  C  C  C  B  E  +0 +0  273
+25 ‘Oì@‰E‹           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  263
+
+; “Šè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
+P ˆÉ“¡@«i           R  C   132  D  A  A  C  C  C  24  200
+P ˆÉŒ´@—Ël           R  C   140  C  A  A  C  C  C  24  200
+P Šâè@—D            R  C   132  C  A  A  C  C  C  24  200
+P Šâ’å@—S‘¾           R  C   132  E  B  A  C  C  C  24  200
+P ‘å’|@k‘¾˜Y          R  C   132  E  A  A  C  C  C  24  200
+P ‹yì@‰ë‹M           R  C   136  A  B  A  C  C  C  24  200
+P ‹Ë•~@‘ñ”n           R  C   132  B  A  B  C  C  C  24  200
+P “‡–{@_–ç           R  C   132  D  B  A  C  C  C  24  200
+P îà‹´@—yl           R  C   132  E  B  A  C  C  C  24  200
+P •x“c@˜@            R  C   132  E  A  B  C  C  C  24  200
+P –å•Ê@Œ[l           R  C   132  C  C  C  C  C  C  24  200
+P Œö®í(ƒZEƒŠ[        R  C   132  C  C  C  C  C  C  24  200
+P F               R  C   132  C  C  C  C  C  C  24  200
+
+;--------------------------------------------------------------------
+; ƒ`[ƒ€–¼                  —ªÌ         ‹L    BGM
+  ƒˆƒRƒnƒ}ƒxƒCƒXƒ^[ƒY           baystars   b baystars
+
+; UNIFORM                   SYMBOL       BGM
+  Y_h Y_v              baystars   baystars
+
+; “Á’¥             ‘Å ‘– ç ‹@ “ ‘« — ç K
+  •½‹Ï             0  0  0  0  0  0  0  0  0
+
+; ‘Iè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá À ƒX D ’· M ‘Î ‘ÅŒ‚
+ 1 “Œ@÷            L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  253
+ 2 Îã@‘×‹P           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  250
+ 3 ˆäã@ˆº“o           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  252
+ 4 Šâ“c@«‹M           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 5 ƒEƒBƒbƒN            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 6 ŠŒ´@VŠó           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  260
+ 7 Ÿ–”@‰·j           R  S  - - - - - -  C  E  E  C  C  S  E  +0 +0  288
+ 8 _—¢@˜a‹B           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 9 ‹“c@—z‘¾           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  263
+10 ƒPƒC              R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  234
+11 â–{@—TÆ           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+12 ²–ì@Œb‘¾           R  S  - - - - - -  C  E  C  C  C  C  D  +0 +0  270
+13 Â–Ø@Œ’‘¾˜Y          L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+14 Ä“c@—³‘ñ           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  230
+15 ŠÖª@‘å‹C           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  259
+16 “›@‰Ã’q           R  S  - - - - - -  C  E  E  C  C  E  D  +0 +0  251
+17 ŒË’Œ@‹±F           L  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  266
+18 —Ñ@‘ô^            R  S  - - - - - -  C  D  E  C  C  E  E  +0 +0  258
+19 éD               R  S  - - - - - -  C  E  E  C  C  S  E  +0 +0  350
+20 ƒtƒH[ƒh            R  S  - - - - - -  C  E  E  C  C  C  E  +0 +0  270
+21 OX@‘å‹M           R  S  - - - - - -  C  C  E  C  C  E  E  +0 +0  258
+22 X@Œh“l            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  247
+23 XŒ´@N•½           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+24 “x‰ï@—²‹P           B  S  - - - - - -  C  E  D  C  C  E  E  +0 +0  261
+25 Œö®í(ƒZEƒŠ[        L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+
+; “Šè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
+P “Œ@÷            R  C   144  B  A  A  C  C  C  24  200
+P Šâ“c@«‹M           R  C   132  E  E  E  C  C  C  24  200
+P ƒPƒC              R  C   144  C  B  A  C  C  C  24  200
+P â–{@—TÆ           R  C   132  B  D  C  C  C  C  24  200
+P Œö®í(ƒZEƒŠ[        R  C   132  C  C  C  C  C  C  24  200
+P F               R  C   132  C  C  C  C  C  C  24  200
+
+;--------------------------------------------------------------------
+; ƒ`[ƒ€–¼                  —ªÌ         ‹L    BGM
+  ƒqƒƒVƒ}ƒJ[ƒv              carp       c carp
+
+; UNIFORM                   SYMBOL       BGM
+  C_h C_v              carp       carp
+
+; “Á’¥             ‘Å ‘– ç ‹@ “ ‘« — ç K
+  •½‹Ï             0  0  0  0  0  0  0  0  0
+
+; ‘Iè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá À ƒX D ’· M ‘Î ‘ÅŒ‚
+ 1 HR@ãÄŒá           L  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  266
+ 2 ‘å·@•ä            R  S  - - - - - -  C  D  E  C  C  B  E  +0 +0  273
+ 3 ‰ª–{@x            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 4 ¬‰€@ŠC“l           R  S  - - - - - -  C  D  C  C  C  B  E  +0 +0  273
+ 5 Ä“¡@—D‘¿           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 6 â‘q@«Œá           L  S  - - - - - -  C  E  C  C  C  C  E  +0 +0  270
+ 7 ²“¡@–ö”V‰î          L  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  266
+ 8 —é–Ø@Œ’–î           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 9 ‚‹´@V–ç           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+10 ‘ê“c@ˆêŠó           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+11 “c’†@L•ã           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  250
+12 ‹Ê‘º@¸Œå           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  228
+13 “c‘º@r‰î           R  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  267
+14 °“c@Š°÷           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  255
+15 –ìŠÔ@sË           R  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  267
+16 ƒn[ƒ“             R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+17 ’·’J•”@‹âŸ          L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+18 ‰HŒ@—²‘¾˜Y          R  S  - - - - - -  C  C  E  C  C  A  E  +0 +0  284
+19 —Ñ@W‘¿            L  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  266
+20 šÍ]@“ÖÆ           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+21 X@ãÄ•½            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  246
+22 X‰Y@‘å•ã           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+23 –î–ì@‰ëÆ           R  S  - - - - - -  C  E  D  C  C  E  E  +0 +0  259
+24 Œö®í(ƒZEƒŠ[        R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+25 F               L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+
+; “Šè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
+P ²“¡@–ö”V‰î          R  C   132  D  D  A  C  C  C  24  200
+P ‚‹´@V–ç           R  C   132  B  B  A  C  C  C  24  200
+P ‘ê“c@ˆêŠó           R  C   132  C  E  C  C  C  C  24  200
+P ‹Ê‘º@¸Œå           R  C   140  B  A  C  C  C  C  24  200
+P °“c@Š°÷           R  C   140  D  B  A  C  C  C  24  200
+P ƒn[ƒ“             R  C   132  A  B  C  C  C  C  24  200
+P ’·’J•”@‹âŸ          R  C   132  S  E  E  C  C  C  24  200
+P šÍ]@“ÖÆ           R  C   132  S  B  D  C  C  C  24  200
+P X@ãÄ•½            R  C   136  C  B  B  C  C  C  24  200
+P X‰Y@‘å•ã           R  C   136  S  B  A  C  C  C  24  200
+P Œö®í(ƒZEƒŠ[        R  C   132  C  C  C  C  C  C  24  200
+P F               R  C   132  C  C  C  C  C  C  24  200
+
+;--------------------------------------------------------------------
+; ƒ`[ƒ€–¼                  —ªÌ         ‹L    BGM
+  ƒ„ƒNƒ‹ƒgƒXƒƒ[ƒY            swallows   s swallows
+
+; UNIFORM                   SYMBOL       BGM
+  S_h S_v              swallows   swallows
+
+; “Á’¥             ‘Å ‘– ç ‹@ “ ‘« — ç K
+  •½‹Ï             0  0  0  0  0  0  0  0  0
+
+; ‘Iè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá À ƒX D ’· M ‘Î ‘ÅŒ‚
+ 1 Îì@‰ë‹K           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 2 Šâ“c@KG           R  S  - - - - - -  C  C  E  C  C  D  E  +0 +0  265
+ 3 ‘¾“c@Œ«Œá           R  S  - - - - - -  C  E  E  C  C  C  E  +0 +0  270
+ 4 ‹à‹v•Û@—D“l          B  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 5 ¬àV@—åj           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 6 ãŒû@á©—º           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 7 àVˆä@—õ            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  259
+ 8 ´…@¸            L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 9 ‘‘i@G‘¾           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+10 ‚‹´@šõ“ñ           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+11 “cŒû@—í“l           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+12 •‰ª@—´¢           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  253
+13 “c’†@—zãÄ           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+14 ’·‰ª@G÷           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  255
+15 ’†‘º@—D“l           R  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  266
+16 ¼ì@—y‹P           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  253
+17 ‹´–{@¯Æ           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  235
+18 ’·’Jì@’ˆ‹P          R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+19 ŠÛR@˜aˆè           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  237
+20 ŠÛR@ãÄ‘å           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+21 ‹{–{@ä            R  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  266
+22 ‘ºã@@—²           R  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  266
+23 –Î–Ø@‰hŒÜ˜Y          R  S  - - - - - -  C  E  D  C  C  D  D  +0 +0  264
+24 R–ì@‘¾ˆê           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  236
+25 R–{@‘å‹M           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+
+; “Šè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
+P Îì@‰ë‹K           R  C   132  E  C  E  C  C  C  24  200
+P ‘‘i@G‘¾           R  C   132  S  B  A  C  C  C  24  200
+P ‚‹´@šõ“ñ           R  C   132  B  C  B  C  C  C  24  200
+P “cŒû@—í“l           R  C   132  B  C  C  C  C  C  24  200
+P ’·’Jì@’ˆ‹P          R  C   132  E  E  A  C  C  C  24  200
+P R–ì@‘¾ˆê           R  C   132  C  C  C  C  C  C  24  200
+P R–{@‘å‹M           R  C   132  E  D  E  C  C  C  24  200
+P Œö®í(ƒZEƒŠ[        R  C   132  C  C  C  C  C  C  24  200
+P F               R  C   132  C  C  C  C  C  C  24  200
+
+;--------------------------------------------------------------------
+; ƒ`[ƒ€–¼                  —ªÌ         ‹L    BGM
+  ƒ`ƒ…ƒEƒjƒ`ƒhƒ‰ƒSƒ“ƒY           dragons    d dragons
+
+; UNIFORM                   SYMBOL       BGM
+  D_h D_v              dragons    dragons
+
+; “Á’¥             ‘Å ‘– ç ‹@ “ ‘« — ç K
+  •½‹Ï             0  0  0  0  0  0  0  0  0
+
+; ‘Iè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá À ƒX D ’· M ‘Î ‘ÅŒ‚
+ 1 ”ÂR@—S‘¾˜Y          R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  259
+ 2 ˆÉ“¡@ä‰›           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 3 ã—Ñ@½’m           L  P  - - - - - -  C  B  D  C  C  C  C  +0 +0  269
+ 4 ‰F²Œ©@^Œá          L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  248
+ 5 ‘å“‡@—m•½           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  263
+ 6 ‘å–ì@—Y‘å           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  228
+ 7 ‰ª“c@rÆ           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 8 ‰ª—Ñ@—EŠó           R  S  - - - - - -  C  C  C  C  C  B  E  +0 +0  274
+ 9 ”ö“c@„÷           R  S  - - - - - -  C  D  E  C  C  E  E  +0 +0  220
+10 ‹àŠÛ@–²“l           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+11 ì‰z@½i           B  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  259
+12 ‹ß“¡@—õ            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+13 âV“¡@j‹L           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+14 x‘¾              R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  241
+15 ‘c•ƒ]@‘å•ã          R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+16 ‚‹´@ü•½           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  263
+17 “y“c@—´‹ó           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  245
+18 ª”ö@V            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+19 ‹´–{@˜Ğ÷           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+20 à_@«”T‰î           R  S  - - - - - -  C  E  E  C  C  S  E  +0 +0  339
+21 ”óŒû@³C           B  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+22 •Ÿ@Œh“o            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+23 ƒ{ƒXƒ‰[            R  S  - - - - - -  C  E  D  C  C  D  D  +0 +0  265
+24 ¼—t@‹M‘å           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  250
+25 ‘º¼@ŠJl           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  253
+
+; “Šè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
+P ‘å–ì@—Y‘å           R  C   132  E  B  A  C  C  C  24  200
+P ‰ª“c@rÆ           R  C   132  S  A  E  C  C  C  24  200
+P ‹àŠÛ@–²“l           R  C   136  B  A  A  C  C  C  24  200
+P ‹ß“¡@—õ            R  C   132  S  E  E  C  C  C  24  200
+P âV“¡@j‹L           R  C   132  B  D  A  C  C  C  24  200
+P ‹´–{@˜Ğ÷           R  C   132  B  B  A  C  C  C  24  200
+P •Ÿ@Œh“o            R  C   132  C  C  A  C  C  C  24  200
+P ƒ}ƒ‰[             R  C   140  A  A  C  C  C  C  24  200
+P ¼—t@‹M‘å           R  C   136  E  B  A  C  C  C  24  200
+P O‰Y@÷           R  C   132  D  E  D  C  C  C  24  200
+P Œö®í(ƒZEƒŠ[        R  C   132  C  C  C  C  C  C  24  200
+P F               R  C   132  C  C  C  C  C  C  24  200
+
+;--------------------------------------------------------------------
+; ƒ`[ƒ€–¼                  —ªÌ         ‹L    BGM
+  ƒ\ƒtƒgƒoƒ“ƒNƒz[ƒNƒX           hawks      h hawks
+
+; UNIFORM                   SYMBOL       BGM
+  H_h H_v              hawks      hawks
+
+; “Á’¥             ‘Å ‘– ç ‹@ “ ‘« — ç K
+  •½‹Ï             0  0  0  0  0  0  0  0  0
+
+; ‘Iè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá À ƒX D ’· M ‘Î ‘ÅŒ‚
+ 1 HL@—Dl           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  258
+ 2 ƒCƒqƒl@ƒCƒcƒA         R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 3 ‘å]@—³¹           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 4 ‘åŠÖ@—F‹v           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 5 ‘å’Ã@—º‰î           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 6 ‘å–ì@‰Ò“ª‰›          L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 7 ”öŒ`@’“l           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 8 •û@—v           R  S  - - - - - -  C  D  E  C  C  E  E  +0 +0  257
+ 9 ì£@W            L  S  - - - - - -  C  E  E  C  C  B  E  +0 +0  272
+10 ì‘º@—F“l           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+11 –Ø‘º@Œõ            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+12 ŒIŒ´@—Ë–î           R  S  - - - - - -  C  E  C  C  C  E  D  +0 +0  259
+13 ‹ß“¡@Œ’‰î           L  S  - - - - - -  C  E  D  C  C  A  E  +0 +0  280
+14 ùì@‹gN           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  245
+15 ü“Œ@—C‹           R  S  - - - - - -  C  A  C  C  C  A  E  +0 +0  281
+16 ¯q@—Y‘å           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  245
+17 ’JìŒ´@Œ’‘¾          L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  256
+18 ’†‘º@W            R  S  - - - - - -  C  E  C  C  C  D  E  +0 +0  265
+19 “¡ˆä@á©Æ           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+20 ƒwƒ‹ƒiƒ“ƒfƒX          R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+21 ‘O“c@ƒ            R  S  - - - - - -  C  E  E  C  C  S  E  +0 +0  339
+22 ‘O“c@—IŒŞ           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+23 –qŒ´@‘å¬           R  S  - - - - - -  C  D  E  C  C  B  E  +0 +0  273
+24 ¼–{@°            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+25 ¼–{@—T÷           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+
+; “Šè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
+P ‘å]@—³¹           R  C   132  S  B  A  C  C  C  24  200
+P ‘åŠÖ@—F‹v           R  C   140  C  B  A  C  C  C  24  200
+P ‘å–ì@‰Ò“ª‰›          R  C   132  E  D  A  C  C  C  24  200
+P ƒwƒ‹ƒiƒ“ƒfƒX          R  C   132  A  B  C  C  C  C  24  200
+P ‘O“c@ƒ            R  C   132  D  C  B  C  C  C  24  200
+P ‘O“c@—IŒŞ           R  C   132  E  A  A  C  C  C  24  200
+P ¼–{@°            R  C   140  A  B  A  C  C  C  24  200
+P ƒ‚ƒCƒlƒ            R  C   148  A  B  A  C  C  C  24  200
+P Œö®í(ƒpEƒŠ[        R  C   132  C  C  C  C  C  C  24  200
+P F               R  C   132  C  C  C  C  C  C  24  200
+
+;--------------------------------------------------------------------
+; ƒ`[ƒ€–¼                  —ªÌ         ‹L    BGM
+  ƒjƒbƒ|ƒ“ƒnƒ€ƒtƒ@ƒCƒ^[ƒY         fighters   f fighters
+
+; UNIFORM                   SYMBOL       BGM
+  F_h F_v              fighters   fighters
+
+; “Á’¥             ‘Å ‘– ç ‹@ “ ‘« — ç K
+  •½‹Ï             0  0  0  0  0  0  0  0  0
+
+; ‘Iè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá À ƒX D ’· M ‘Î ‘ÅŒ‚
+ 1 ŸÇŠÔ@‘åŠî           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  253
+ 2 Îˆä@ˆê¬           R  S  - - - - - -  C  E  E  C  C  C  E  +0 +0  270
+ 3 ŒÜ\”¦@—º‘¿          R  S  - - - - - -  C  C  E  C  C  D  E  +0 +0  265
+ 4 ˆÉ“¡@‘åŠC           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 5 ãŒ´@Œ’‘¾           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 6 ‰Á“¡@‹M”V           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 7 ãì”¨@‘åŒå          R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  250
+ 8 ‰Í–ì@—³¶           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 9 ´‹{@K‘¾˜Y          R  S  - - - - - -  C  E  C  C  C  C  D  +0 +0  270
+10 âV“¡@—F‹MÆ          R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+11 Ä“c@‚q           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+12 ‘·@ˆÕáû            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+13 “c‹{@—T—Á           L  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  265
+14 ’†“‡@‘ì–ç           L  S  - - - - - -  C  E  E  C  C  S  E  +0 +0  339
+15 ×ì@—½•½           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  256
+16 ×–ì@°Šó           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+17 –x@‹P            L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+18 …–ì@’B‹H           L  S  - - - - - -  C  E  E  C  C  C  E  +0 +0  269
+19 ‹{¼@®¶           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+20 –îàV@G‘¾           R  S  - - - - - -  C  D  E  C  C  C  E  +0 +0  269
+21 Rí•@•Ÿ–ç           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  245
+22 á—Ñ@WO           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  245
+23 Œö®í(ƒpEƒŠ[        R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+24 F               R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+
+; “Šè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
+P ãŒ´@Œ’‘¾           R  C   132  B  A  A  C  C  C  24  200
+P ‰Á“¡@‹M”V           R  C   132  E  A  B  C  C  C  24  200
+P ‰Í–ì@—³¶           R  C   132  B  B  B  C  C  C  24  200
+P ×–ì@°Šó           R  C   132  A  E  A  C  C  C  24  200
+P –x@‹P            R  C   132  S  E  E  C  C  C  24  200
+P ‹{¼@®¶           R  C   132  C  C  A  C  C  C  24  200
+P Rí•@•Ÿ–ç           R  C   132  E  A  A  C  C  C  24  200
+P Œö®í(ƒpEƒŠ[        R  C   132  C  C  C  C  C  C  24  200
+P F               R  C   132  C  C  C  C  C  C  24  200
+
+;--------------------------------------------------------------------
+; ƒ`[ƒ€–¼                  —ªÌ         ‹L    BGM
+  ƒƒbƒeƒ}ƒŠ[ƒ“ƒY             marines    m marines
+
+; UNIFORM                   SYMBOL       BGM
+  M_h M_v              marines    marines
+
+; “Á’¥             ‘Å ‘– ç ‹@ “ ‘« — ç K
+  •½‹Ï             0  0  0  0  0  0  0  0  0
+
+; ‘Iè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá À ƒX D ’· M ‘Î ‘ÅŒ‚
+ 1 ˆêŠ@—Í^           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 2 ã“c@Šó—RãÄ          R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  252
+ 3 ¬ì@—´¬           R  S  - - - - - -  C  D  E  C  C  E  E  +0 +0  264
+ 4 ¬“‡@˜aÆ           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 5 Šp’†@Ÿ–ç           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  250
+ 6 ‹e’n@—™‹è           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 7 –Ø‘º@—Dl           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 8 ƒTƒ‚ƒ“ƒY            L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 9 â–{@Œõm˜Y          R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+10 ²“¡@“su–ç          R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  238
+11 àV“c@Œ\—C           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+12 —é–Ø@º‘¿           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+13 ‚–ì@ãù‘¿           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+14 îà•”@‰l“l           L  S  - - - - - -  C  D  E  C  C  D  E  +0 +0  264
+15 —§¼@—R‰F           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+16 “c’†@°–ç           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  256
+17 ›’n@—²¬           B  S  - - - - - -  C  E  E  C  C  C  D  +0 +0  270
+18 ’†‘º@–«–í           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+19 ’†X@r‰î           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+20 œA’r@Nu˜Y          R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+21 “¡‰ª@—T‘å           L  S  - - - - - -  C  E  C  C  C  D  E  +0 +0  266
+22 “¡Œ´@‹±‘å           L  S  - - - - - -  C  C  D  C  C  C  E  +0 +0  270
+23 ƒ|ƒ‰ƒ“ƒR            R  S  - - - - - -  C  E  E  C  C  E  D  +0 +0  257
+24 ‹{è@—³¬           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  261
+25 ˆÀ“c@®Œ›           B  S  - - - - - -  C  E  D  C  C  C  E  +0 +0  269
+
+; “Šè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
+P ¬“‡@˜aÆ           R  C   136  D  C  B  C  C  C  24  200
+P ƒTƒ‚ƒ“ƒY            R  C   132  B  D  B  C  C  C  24  200
+P â–{@Œõm˜Y          R  C   132  D  E  E  C  C  C  24  200
+P —é–Ø@º‘¿           R  C   132  A  B  D  C  C  C  24  200
+P ‚–ì@ãù‘¿           R  C   132  S  B  A  C  C  C  24  200
+P ’†‘º@–«–í           R  C   132  E  E  B  C  C  C  24  200
+P Œö®í(ƒpEƒŠ[        R  C   132  C  C  C  C  C  C  24  200
+P F               R  C   132  C  C  C  C  C  C  24  200
+
+;--------------------------------------------------------------------
+; ƒ`[ƒ€–¼                  —ªÌ         ‹L    BGM
+  ƒ‰ƒNƒeƒ“ƒC[ƒOƒ‹ƒX            eagles     e eagles
+
+; UNIFORM                   SYMBOL       BGM
+  E_h E_v              eagles     eagles
+
+; “Á’¥             ‘Å ‘– ç ‹@ “ ‘« — ç K
+  •½‹Ï             0  0  0  0  0  0  0  0  0
+
+; ‘Iè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá À ƒX D ’· M ‘Î ‘ÅŒ‚
+ 1 “à@¯—´            L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 2 ¬‹½@—TÆ           B  S  - - - - - -  C  D  E  C  C  E  E  +0 +0  254
+ 3 h“‡@q            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 4 •ì@j—z           R  S  - - - - - -  C  E  E  C  C  A  E  +0 +0  282
+ 5 ŒÃÓ@÷            L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 6 ¬[“c@‘åãÄ          L  S  - - - - - -  C  A  C  C  C  E  E  +0 +0  263
+ 7 “‡“à@G–¾           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 8 —é–Ø@ãÄ“V           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 9 —é–Ø@‘å’n           R  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  266
+10 ƒ^[ƒŠ[            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+11 ’CŒÈ@—Á‰î           R  S  - - - - - -  C  C  D  C  C  D  E  +0 +0  267
+12 “c’†@˜aŠî           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  229
+13 “c’†@‹M–ç           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+14 ’†“‡@‘å•ã           R  S  - - - - - -  C  C  E  C  C  C  E  +0 +0  270
+15 ¼Š_@‰ë–î           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+16 ‘¥–{@V‘å           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+17 ‘ì@—²‹v           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+18 “¡ˆä@¹            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+19 –x“à@ŒªŒŞ           R  S  - - - - - -  C  E  E  C  C  A  E  +0 +0  282
+20 •“¡@“Ö‹M           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  243
+21 @R@—Û            B  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  267
+22 ƒ„ƒt[ƒŒ            L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+23 “nç²@‰À–¾           R  S  - - - - - -  C  E  E  C  C  A  E  +0 +0  279
+24 Œö®í(ƒpEƒŠ[        R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+25 F               R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+
+; “Šè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
+P h“‡@q            R  C   132  E  A  E  C  C  C  24  200
+P ŒÃÓ@÷            R  C   132  D  B  C  C  C  C  24  200
+P —é–Ø@ãÄ“V           R  C   132  S  C  A  C  C  C  24  200
+P ƒ^[ƒŠ[            R  C   132  A  E  E  C  C  C  24  200
+P ‘ì@—²‹v           R  C   140  B  B  C  C  C  C  24  200
+P “¡ˆä@¹            R  C   136  D  C  B  C  C  C  24  200
+P Œö®í(ƒpEƒŠ[        R  C   132  C  C  C  C  C  C  24  200
+P F               R  C   132  C  C  C  C  C  C  24  200
+
+;--------------------------------------------------------------------
+; ƒ`[ƒ€–¼                  —ªÌ         ‹L    BGM
+  ƒIƒŠƒbƒNƒXƒoƒtƒ@ƒ[ƒY          buffaloes  b buffaloes
+
+; UNIFORM                   SYMBOL       BGM
+  B_h B_v              buffaloes  buffaloes
+
+; “Á’¥             ‘Å ‘– ç ‹@ “ ‘« — ç K
+  •½‹Ï             0  0  0  0  0  0  0  0  0
+
+; ‘Iè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá À ƒX D ’· M ‘Î ‘ÅŒ‚
+ 1 ˆ¢•”@ãÄ‘¾           B  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 2 ‘å—¢@V¶           R  S  - - - - - -  C  E  E  C  C  B  E  +0 +0  274
+ 3 •ĞR@Šy¶           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 4 —ˆ“c@—Á“l           R  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  267
+ 5 ™àV@—´            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  256
+ 6 ‘]’J@—´•½           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 7 “c“ˆ@‘å÷           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 8 ’ƒ–ì@“Ä­           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  250
+ 9 “Œ¼@‰õª           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+10 •xR@—½‰ë           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+11 ¼ì@—´”n           R  S  - - - - - -  C  E  E  C  C  A  E  +0 +0  283
+12 ¼–ì@^O           R  S  - - - - - -  C  E  E  C  C  D  E  +0 +0  266
+13 –ìŒû@’qÆ           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  245
+14 •Ÿ“c@ü•½           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  251
+15 ‹{é@‘å–í           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+16 ”’J@—S‰î           B  S  - - - - - -  C  D  E  C  C  D  E  +0 +0  268
+17 @@—C–            L  S  - - - - - -  C  E  D  C  C  D  E  +0 +0  266
+18 X@—FÆ            L  S  - - - - - -  C  E  D  C  C  D  E  +0 +0  265
+19 R‰ª@‘×•ã           B  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+20 R“c@C‹`           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+21 R’†@—Å^           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  244
+22 ‰¡R@¹Æ           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+23 “n•”@—Él           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  256
+24 Œö®í(ƒpEƒŠ[        R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+25 F               R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+
+; “Šè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
+P ‘]’J@—´•½           R  C   144  B  B  B  C  C  C  24  200
+P “c“ˆ@‘å÷           R  C   136  C  A  B  C  C  C  24  200
+P “Œ¼@‰õª           R  C   132  A  D  E  C  C  C  24  200
+P •xR@—½‰ë           R  C   132  E  E  E  C  C  C  24  200
+P ‹{é@‘å–í           R  C   148  A  A  A  C  C  C  24  200
+P R“c@C‹`           R  C   132  A  E  D  C  C  C  24  200
+P Œö®í(ƒpEƒŠ[        R  C   132  C  C  C  C  C  C  24  200
+P F               R  C   132  C  C  C  C  C  C  24  200
+
+;--------------------------------------------------------------------
+; ƒ`[ƒ€–¼                  —ªÌ         ‹L    BGM
+  ƒZƒCƒuƒ‰ƒCƒIƒ“ƒY             lions      l lions
+
+; UNIFORM                   SYMBOL       BGM
+  L_h L_v              lions      lions
+
+; “Á’¥             ‘Å ‘– ç ‹@ “ ‘« — ç K
+  •½‹Ï             0  0  0  0  0  0  0  0  0
+
+; ‘Iè             ‘Å ‘Å C 1 2 3 S O Œ¨ ‹r Šá À ƒX D ’· M ‘Î ‘ÅŒ‚
+ 1 b”ã–ì@‰›           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 2 ŒIR@I            R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  234
+ 3 •–Ø@—D‘¾           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 4 Œ¹“c@‘s—º           R  S  - - - - - -  C  D  D  C  C  E  E  +0 +0  261
+ 5 ²X–Ø@Œ’           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 6 ²“¡@”¹•ã           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 7 ²“¡@‘¾—z           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 8 ›ˆä@M–ç           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+ 9 ‹÷“c@’mˆê˜Y          L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+10 •½—Ç@ŠC”n           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+11 îà¼@“n            L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+12 ‘êàV@‰Ä‰›           R  S  - - - - - -  C  C  E  C  C  D  E  +0 +0  265
+13 •“à@‰Äô           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+14 “c‘º@ˆÉ’m˜Y          R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+15 ’‡“c@Œc‰î           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  262
+16 ’‡O‰Í@—D‘¾          L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  261
+17 ¼ì@ˆ¤–ç           L  S  - - - - - -  C  B  C  C  C  D  E  +0 +0  268
+18 ‰H“c@T”V‰î          R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  220
+19 •½‘ò@‘å‰Í           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  228
+20 •½À@ãÄ‘¾           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  252
+21 •gŠÔ@‘ñÆ           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  252
+22 –q–ì@ãÄ–î           L  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  259
+23 ¼Œ´@¹–í           R  S  - - - - - -  C  E  E  C  C  C  E  +0 +0  270
+24 Œ³R@”ò—D           R  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  245
+25 R‘º@’‰Ã           B  S  - - - - - -  C  E  E  C  C  E  E  +0 +0  260
+
+; “Šè             “Š Œ^ ‹…‘¬ Ø § ˆÀ ‹… ‹Z ƒX  ‰ñ ”N•î
+P ²X–Ø@Œ’           R  C   132  E  B  E  C  C  C  24  200
+P ²“¡@”¹•ã           R  C   132  C  D  E  C  C  C  24  200
+P ›ˆä@M–ç           R  C   132  B  D  B  C  C  C  24  200
+P ‹÷“c@’mˆê˜Y          R  C   144  B  A  A  C  C  C  24  200
+P •“à@‰Äô           R  C   132  C  B  B  C  C  C  24  200
+P ‰H“c@T”V‰î          R  C   132  S  E  B  C  C  C  24  200
+P Œö®í(ƒpEƒŠ[        R  C   132  C  C  C  C  C  C  24  200
+P F               R  C   132  C  C  C  C  C  C  24  200
+
