@@ -32,7 +32,7 @@ P 小笠原慎之介     L  C   136  B  B  B  C  B  B  24  200
 P 涌井秀章         R  C   140  B  C  C  C  C  C  24  200
 P 村中恭兵         R  C   138  B  B  C  D  B  C  22  200
 P 森博人           L  A+  140  C  C  C  D  B  C  20  200
-P 谷元圭介         L  A+  136  C  C  B  C  C  C  26  200
+P 大野雄大         L  A+  148  A  A  A  A  B  B  30  186
 P 橋本侑樹         R  B   146  C  D  C  C  D  C  26  200
 P レイビス         Rs C   138  B  B  C  D  C  C  26  200
 P 鈴木博志         R  B   140  C  B  B  B  C  D  24  200
