@@ -364,8 +364,8 @@ P 佐藤隼輔         R  B+  148  A  C  B  B  D  C  26  200
 7 宗佑磨           R  S  - - C - C A  A  B  C  B  B  C  D  0  0  280
 4 杉本裕太郎       R  S  - - B C C -  B  B  C  C  B  B  D  0  0  270
 8 セデーニョ       R  S  - C - - - A  B  A  B  C  C  C  C  0  0  280
-9 イチロー         L  S  - - - - - A  S  A  A  S  A  A  C +2 -1  360
-D ニール           L  P  - D - - - D  D  D  E  B  D  D  B  0 -2  250
+9 頓宮裕真         R  S  - - - - - B  B  B  C  B  C  B  C  0  0  270
+D 来田涼斗         R  P  - - - - - B  C  C  D  C  C  C  C  0  0  260
 3 中川拓真         L  P  - C - - - C  C  D  D  B  D  E  B  0 -1  250
 5 アルバース       R  P  - - - C - -  B  C  D  C  B  D  A -1  0  250
 2 山足達也         L  P  C - - - - -  B  C  E  E  D  D  D  0 -2  230
@@ -418,7 +418,7 @@ D 山口航輝         R  P  - C - D - -  C  D  B  A  D  D  C +1 +1  270
 - 柿沼友哉         R  S  - - - D - A  C  C  D  C  D  C  E  0  0  240
 - 福田光輝         L  P  - - - - - C  B  C  A  B  C  B  D -1 -2  280
 - 岡大海           R  P  - - - - - B  B  B  E  D  D  D  C  0  0  250
-- サブロー         R  P  - - - - - B  B  B  C  D  C  C  D  0  0  290
+- 佐藤都志也       R  P  - - - - - B  B  B  C  D  C  C  D  0  0  280
 
 ; 投手             利 守 スタミナ 球 制 変 決 ク 牽  年 体重
 P 佐々木朗希       R  A+  144  A  B  D  D  C  A  24  200
